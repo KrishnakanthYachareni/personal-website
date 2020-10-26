@@ -1,9 +1,9 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: "/personal-website",
   siteMetadata: {
     title: 'Krishnakanth Yachareni',
-    pathPrefix: "/personal-website",
     description:
       'Krishnakanth Yachareni is a software engineer specializing in building full stack web applications.',
     siteUrl: 'https://krishnakanth.com', // No trailing slash allowed!
