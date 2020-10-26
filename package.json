@@ -1,11 +1,12 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "personal-website",
+  "description": "Personal Website",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Krishnakanth Yachareni <yacharenikrishnakanth@gmail.com>",
+  "homepage": "http://KrishnakanthYachareni.github.io/personal-website",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/KrishnakanthYachareni/personal-website"
   },
   "keywords": [
     "gatsby"
@@ -13,6 +14,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "predeploy": "npm run build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
@@ -72,6 +74,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "gatsby-remark-code-titles": "^1.1.0",
+    "gh-pages": "^3.1.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.1.2",
     "prettier": "^2.0.4"
