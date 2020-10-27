@@ -132,7 +132,19 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Micorservices', 'Java8+', 'Spring Framework', 'Python', 'SQL', 'JavaScript (ES6+)', 'HTML & (S)CSS', 'Angular', 'React', 'Docker & Kubernetes', 'Maven'];
+  const skills = [
+    'Micorservices',
+    'Java8+',
+    'Spring Framework',
+    'Python',
+    'SQL',
+    'JavaScript (ES6+)',
+    'HTML & (S)CSS',
+    'Angular',
+    'React',
+    'Docker & Kubernetes',
+    'Maven',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,18 +153,24 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Krishnakanth, a software engineer based in Hyderabad, India.</p>
+            <p>
+              Hello! I'm Krishnakanth, a Software Developement Engineer based in Hyderabad, India.
+            </p>
 
             <p>
-              I enjoy building things that survive on the internet and help people to enhance their work. My goal is to always build the best products that help people.
+              I enjoy building things that survive on the internet and help people to enhance their
+              work. My goal is to always build the best products that help people.
             </p>
 
             <p>
               Shortly after graduating from{' '}
-              <a href="http://jntuhcem.ac.in">
-                Jawaharlal Nehru Technological University</a>, I joined the
-              engineering team at <a href="https://www.epam.com">EPAM Systems, India</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis. Majorly worked with <a href="https://www.mastercard.co.in/en-in.html">Mastercard</a> client, where I involved in various payment methods (Credit, Debit, Gift,..etc) integration with Mastercard Payment Gateway.
+              <a href="http://jntuhcem.ac.in">Jawaharlal Nehru Technological University</a>, I
+              joined the engineering team at <a href="https://www.epam.com">EPAM Systems, India</a>{' '}
+              where I work on a wide variety of interesting and meaningful projects on a daily
+              basis. Majorly worked with{' '}
+              <a href="https://www.mastercard.co.in/en-in.html">Mastercard</a> client, where I
+              involved in various payment methods (Credit, Debit, Gift,..etc) integration with
+              Mastercard Payment Gateway.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
