@@ -1,4 +1,4 @@
-import { About, Contact, Hero, Jobs, Layout, Projects } from '@components';
+import { About, Contact, Hero, Jobs, Featured, Layout, Projects } from '@components';
 import PropTypes from 'prop-types';
 import React from 'react';
 import styled from 'styled-components';
@@ -13,6 +13,7 @@ const IndexPage = ({ location }) => (
       <Hero />
       <About />
       <Jobs />
+      <Featured />
       <Projects />
       <Contact />
     </StyledMainContainer>

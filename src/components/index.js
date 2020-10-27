@@ -12,4 +12,4 @@ export { default as Jobs } from './sections/jobs';
 export { default as Projects } from './sections/projects';
 export { default as Side } from './side';
 export { default as Social } from './social';
-
+export { default as Featured } from './sections/featured';
