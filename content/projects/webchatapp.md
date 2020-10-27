@@ -9,7 +9,7 @@ tech:
   - JSP
   - Java Sockets
 
-company: 'EPAM Systems'
+company: 'Own'
 showInProjects: true
 ---
 
