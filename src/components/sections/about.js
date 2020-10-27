@@ -139,11 +139,16 @@ const About = () => {
     'Python',
     'SQL',
     'JavaScript (ES6+)',
-    'HTML & (S)CSS',
+    'HTML & CSS',
     'Angular',
     'React',
-    'Docker & Kubernetes',
     'Maven',
+    'Cassandra',
+    'Cucumber',
+    'Selenium',
+    'Docker & Kubernetes',
+    'Jenkins',
+    'Agile',
   ];
 
   return (

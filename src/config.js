@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/yacharenikrishnakanth',
+      url: 'https://codepen.io/KrishnakanthYachareni',
     },
     {
       name: 'Instagram',
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/yacharenikrish',
+      url: 'https://twitter.com/yacharenikrish1',
     },
   ],
 
