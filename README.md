@@ -1,4 +1,4 @@
-### Host: https://krishnakanthyachareni.github.io/personal-website/
+**GitHub Pages: https://krishnakanthyachareni.github.io/personal-website/**
 
 ## 🛠 Installation & Set Up
 
@@ -39,6 +39,11 @@
    ```sh
    npm run serve
    ```
+
+## References:
+
+1. https://blog.bitsrc.io/deploy-a-gatsby-site-on-github-pages-for-free-f18853c1b7a9
+2. https://medium.com/better-programming/how-to-host-your-react-app-on-github-pages-for-free-919ad201a4cb
 
 ## 🎨 Color Reference
 
