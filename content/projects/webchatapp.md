@@ -1,5 +1,5 @@
 ---
-date: '2017-012-25'
+date: '2017-12-25'
 title: 'Public Web Chatting'
 github: 'https://github.com/KrishnakanthYachareni/web-chat-application-using-servlets-and-jsp'
 external: 'https://github.com/KrishnakanthYachareni/web-chat-application-using-servlets-and-jsp/tree/master/Demo_pics'
