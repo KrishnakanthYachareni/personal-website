@@ -159,7 +159,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Krishnakanth, a Software Developement Engineer based in Hyderabad, India.
+              Hello! I'm Krishnakanth, a Software Development Engineer based in Hyderabad, India.
             </p>
 
             <p>
