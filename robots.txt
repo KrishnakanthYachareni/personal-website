@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://krishnakanth.com/sitemap.xml
+Host: https://krishnakanth.com
