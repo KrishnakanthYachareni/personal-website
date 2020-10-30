@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://krishnakanth.com/sitemap.xml
-Host: https://krishnakanth.com
+Sitemap: https://krishnakanthyachareni.github.io/sitemap.xml
+Host: https://krishnakanthyachareni.github.io
