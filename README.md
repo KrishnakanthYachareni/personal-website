@@ -2,25 +2,26 @@
 
 ## 🛠 Installation & Set Up
 
-1. Install the Gatsby CLI
+1. Install node.js `16` and `Python3` pieces of software.
+2. Install the Gatsby CLI
 
    ```sh
    npm install -g gatsby-cli
    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+3. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
-   nvm install
+   nvm install --force
    ```
 
-3. Install dependencies
+4. Install dependencies
 
    ```sh
    yarn
    ```
 
-4. Start the development server
+5. Start the development server
 
    ```sh
    npm start
