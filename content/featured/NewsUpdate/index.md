@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '7'
 title: 'Instant News Update'
 cover: './newsupdate.png'
 github: 'https://github.com/KrishnakanthYachareni/news-feed-webapp-using-react'

@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '6'
 title: 'Ecommerce Product Management'
 cover: './product-management.png'
 github: 'https://github.com/KrishnakanthYachareni/shopping'

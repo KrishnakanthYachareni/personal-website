@@ -41,6 +41,12 @@
    npm run serve
    ```
 
+## Hosting in Git Hub Pages
+
+1. `npm install gh-pages`
+2. `npm run build`
+3. `npm run deploy`
+
 ## References:
 
 1. https://blog.bitsrc.io/deploy-a-gatsby-site-on-github-pages-for-free-f18853c1b7a9
