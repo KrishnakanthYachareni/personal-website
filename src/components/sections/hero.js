@@ -49,12 +49,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Krishnakanth Yachareni.</h2>;
-  const three = <h3 className="big-heading">A Competitive Programmer.</h3>;
+  const three = <h3 className="big-heading">A Software Engineer.</h3>;
   const four = (
     <p>
-      I'm a software development engineer based in Hyderabad, India. If you're searching for a
-      Software Engineer with a proven ability to develop high-performance applications and technical
-      innovations? If so, please consider my enclosed resume.
+      I'm a software development engineer based in the United States of America. If you're searching
+      for a Software Engineer with a proven ability to develop high-performance applications and
+      technical innovations? If so, please consider my enclosed resume.
     </p>
   );
   const five = (

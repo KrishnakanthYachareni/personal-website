@@ -133,22 +133,28 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Micorservices',
-    'Java8+',
+    'Microservices',
+    'Java 8+',
     'Spring Framework',
+    'Spring Boot',
     'Python',
-    'SQL',
+    'SQL/NoSQl',
     'JavaScript (ES6+)',
+    'TypeScript',
     'HTML & CSS',
-    'Angular',
-    'React',
+    'AngularJs',
+    'React.js',
     'Maven',
     'Cassandra',
+    'MongoDb',
     'Cucumber',
     'Selenium',
     'Docker & Kubernetes',
     'Jenkins',
-    'Agile',
+    'Spinnaker',
+    'AWS',
+    'GCP',
+    'Agile Methodologies',
   ];
 
   return (
@@ -158,27 +164,37 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
+            <p>Hello! I'm Krishnakanth, a Software Development Engineer based in USA.</p>
+
             <p>
-              Hello! I'm Krishnakanth, a Software Development Engineer based in Hyderabad, India.
+              I'm interested in solving challenging problems in all fields through a strong
+              foundation in mathematics, and computer science. I completed my Master's Degree in
+              Computer Science from the University of Southern Mississippi (USM) with a 3.9 GPA in
+              Dec, 2022. I would love to expand the boundaries of the shared space to create
+              innovative and impactful technologies. My OPT start date is Jan 30th, 2023 and I am
+              currently working as Software Developer at{' '}
+              <a href="https://www.copart.com/"> Copart, Inc</a> Dallas, Texas. Previously I worked
+              as a research assistant for NOAA. It is the most prestigious American scientific and
+              regulatory agency within the United States Department of Commerce that forecasts
+              weather monitors oceanic and atmospheric conditions, charts the seas, and conducts
+              deep-sea exploration.
             </p>
 
             <p>
-              I enjoy building things that survive on the internet and help people to enhance their
-              work. My goal is to always build the best products that help people.
+              Known for excellent client-facing skills, I also excel in merging business and user
+              needs into high-quality, cost-effective design solutions while keeping within
+              budgetary constraints. I nurture my inherent curiosity by asking questions, breaking
+              things and making them differently, learning through experimentation while iteratively
+              trying new and different approaches, endlessly assimilating diverse skills and
+              knowledge, and perhaps most importantly, learning from failure. This approach has
+              often helped me to dynamically shift through protocols, languages, techniques, and
+              disciplines while also leveraging just-in-time learning and divergent thinking to
+              build avant-garde and creative solutions to ambiguous problems. I have always believed
+              in realizing use cases - the real-life problems to solve and work back to engineer the
+              technology for the same.
             </p>
 
-            <p>
-              Shortly after graduating from{' '}
-              <a href="http://jntuhcem.ac.in">Jawaharlal Nehru Technological University</a>, I
-              joined the engineering team at <a href="https://www.epam.com">EPAM Systems, India</a>{' '}
-              where I work on a wide variety of interesting and meaningful projects on a daily
-              basis. Majorly worked with{' '}
-              <a href="https://www.mastercard.co.in/en-in.html">Mastercard</a> client, where I
-              involved in various payment methods (Credit, Debit, Gift,..etc) integration with
-              Mastercard Payment Gateway.
-            </p>
-
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Highlights of my skill and interest include (but hopefully not limited to):</p>
           </div>
 
           <ul className="skills-list">
