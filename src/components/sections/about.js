@@ -171,13 +171,16 @@ const About = () => {
               foundation in mathematics, and computer science. I completed my Master's Degree in
               Computer Science from the University of Southern Mississippi (USM) with a 3.9 GPA in
               Dec, 2022. I would love to expand the boundaries of the shared space to create
-              innovative and impactful technologies. My OPT start date is Jan 30th, 2023 and I am
-              currently working as Software Developer at{' '}
-              <a href="https://www.copart.com/"> Copart, Inc</a> Dallas, Texas. Previously I worked
-              as a research assistant for NOAA. It is the most prestigious American scientific and
-              regulatory agency within the United States Department of Commerce that forecasts
-              weather monitors oceanic and atmospheric conditions, charts the seas, and conducts
-              deep-sea exploration.
+              innovative and impactful technologies. I am currently working as Software Engineer 3
+              at{' '}
+              <a href="https://tech.walmart.com/content/walmart-global-tech/en_us.html">
+                {' '}
+                Walmart Global Tech{' '}
+              </a>{' '}
+              Dallas, Texas. Previously I worked as a research assistant for NOAA. It is the most
+              prestigious American scientific and regulatory agency within the United States
+              Department of Commerce that forecasts weather monitors oceanic and atmospheric
+              conditions, charts the seas, and conducts deep-sea exploration.
             </p>
 
             <p>
